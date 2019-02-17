@@ -2,3 +2,5 @@ dogImages
 lfw
 .vscode
 .ipynb_checkpoints
+model_scratch.pt
+model_transfer.pt
